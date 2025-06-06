@@ -92,8 +92,8 @@ Abra o arquivo `.ipynb` em seu Jupyter Notebook ou no VS Code.
 ## 📬 Contato
 
 
-💼 LinkedIn: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/daniel-coelho-818381293/)  
-🐙 GitHub: [github.com/seuusuario](https://github.com/danccoelho)  
+💼 [linkedin](https://www.linkedin.com/in/daniel-coelho-818381293/)  
+🐙 [github](https://github.com/danccoelho)  
 
 ---
 
